@@ -8,6 +8,7 @@ NUMERIC INPUTS ARE 0 TO 100 BY DEFAULT; YOU WILL NEED TO MANUALLY CHANGE THIS AF
 WILL ONLY WORK FOR WINDOWS DESKTOP
 
 ================================How to Use==========================================
+
 Just download the Application Files folder and the setup.exe, then run the setup.exe
 
 Once the program opens, click the only button on the application and select your startup.txt file
