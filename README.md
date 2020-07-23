@@ -11,6 +11,6 @@ WILL ONLY WORK FOR WINDOWS DESKTOP
 
 Just download the Application Files folder and the setup.exe, then run the setup.exe
 
-Once the program opens, click the only button on the application and select your startup.txt file
-The devmenu.txt will be generated on your desktop and you will be notified on completion
-You can freely the close the program after the notifcations alert you of completion (about a second or two)
+Once the program opens, click the only button on the application and select your startup.txt file.
+The devmenu.txt will be generated on your desktop and you will be notified on completion.
+You can freely the close the program after the notifcations alert you of completion (about a second or two).
